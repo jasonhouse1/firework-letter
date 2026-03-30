@@ -75,3 +75,5 @@
 - 確認 `%USERPROFILE%\Desktop\birthday-firework-safe` 已產生鏡像
 - 在瀏覽器輸入 `http://127.0.0.1:5501/birthday-firework.html`
 - 在 VS Code 用 `Simple Browser` 顯示同一網址
+
+# 本站為jasonhouse1所有，翻版必究
